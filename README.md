@@ -1,2 +1,2 @@
-# Branching-Functions
-Andre's C++ assignment
+# C++ Assignment 3
+C++ assignment
